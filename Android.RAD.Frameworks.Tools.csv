@@ -1,0 +1,72 @@
+Note: Project data are based on documentation. No in-depth code examination was conducted,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Updated,"February 11, 2016",,,,,,,,,,,,,
+,,Objective/Emphasis*,,,,,,,,,,,,
+Project,Other Links,Framework,Bootstrap,Architecture,Utilities,Architectures**,Samples,External Libs***,Useage,Docs,Licence,Last Commit,Stars,Notes****
+Android Bootstrap App,Generator,,?,,,Standard; DI,?,+5,Online Generator,1,ASL V2,2015-10-15,4037,
+Android TDD bootstrap project,,,?,,,MVP; DI; RX; TDD,?,+5,As is,1,MIT,2015-12-06,259,
+Android Templates And Utilities,,,?,,?,Standard,,,As is,1,ASL V2,2016-01-24,589,Large
+android_framework,,?,?,,,Standard,,,As is,1,BSD-3,2016-01-25,45,Not in English
+Android-CleanArchitecture,,,,?,,Clean; RX; DI; TDD,?,+5,As is,2,ASL V2,2016-01-30,3303,Linked to video and blog posts
+AndroidMvc Framework,,?,,?,,MVC; MVVM; DI,?,,Gradle Library,2,ASL V2,2016-01-27,27,Has interesting modified Dagger with naming conventions
+AndroidStudio-Base-Template,,,,?,,DI; RX,,+5,IDE Template,1,ASL V2,2015-06-29,17,
+Andy,,,?,,,Standard,,<5,CLI Generator - Yeoman,1,MIT,2015-06-25,32,spiritual successor to Android KickstartR
+Archi,,,,?,,MVVM; MVP; Standard; RX; TDD,?,+5,As is,1,ASL V2,2016-01-13,1676,"same app built 3 times using Standard, MVP, MVVM"
+Backeasy,,?,,?,,DI; SOLID; Repo Pattern; Spec pattern; DDD,?,<5,As is,1,ASL V2,2015-06-25,38,
+BARACUS,Tutorial,?,,,,Standard,,,As is,2,ASL V2,2016-01-24,22,No Gradle . Feels like a real framework
+base_app_android,,,?,,,Clean; RX; DI; TDD,?,+5,As is,1,ASL V2,2016-02-03,54,Agency template
+Best practices in Android development,https://github.com/futurice/android-best-practices/tree/master/templates/rx-architecture; https://github.com/tmiyamon/android-studio-template,,,,,Standard; RX,,<5,IDE Template; As is,3,ASL V2,2016-02-04,8272,
+droid4me,Wiki,?,,,,Standard,?,,Jar,3,LGPL,2016-01-26,5,Interesting ideas
+Droidux,,,,?,,Flux; RX,?,,Gradle Library,2,ASL V2,2016-01-22,65,
+Effective AndroidUI,Slides,,?,,,MVVM; MVP; DI,?,<5,As is,2,ASL V2,2015-10-25,2832,
+Flux Architecture on Android,,,,?,,Flux,?,,As is,2,Unknown,2015-08-02,700,
+FluxyTodo,Article,,,?,,Flux; DI,?,<5,As is,2,MIT,2016-01-07,54,accompanying article goes in depth on Dagger 2
+generator-android-hipster,,,?,,,MVP; DI; RX,?,+5,CLI Generator - Yeoman,2,ASL V2,2016-02-08,48,
+Hexagonal-MVP-Reactive,,,,?,,DI; RX; Hexagonal; SOLID,?,<5,As is,1,ASL V2,2015-02-27,38,
+jdroid,Homepage,?,,,,Standard,?,+5,Gradle Library,3,ASL V2,2016-02-03,40,For both android and Java servers. Impressive effort
+Kor,,,,?,,Clean; Hexagonal; TDD; SOLID,,<5,Gradle Library,1,ASL V2,2015-09-24,40,
+MJ-Android-Core,,,?,,,Clean,,<5,Gradle Library,1,ASL V2,2016-01-16,3,Agency template
+QuickUtils,,,?,,?,Standard,?,<5,Gradle Library,2,MIT,2015-03-08,245,
+Rapid Android Development Template,,?,?,,,DI; Standard,,+5,As is,2,ASL V2,2015-11-30,44,Old libraries
+Reark,,,,?,,RX,?,<5,As is,1,MIT,2016-02-01,1572,"Rx concentration. Large, ambitious, new"
+RoboBinding,Documentation,,,?,,MVVM,?,<5,As is,3,ASL V2,2016-01-25,1096,
+RoboMVVM,,,,?,,MVVM,?,<5,As is,2,BSD-3,2014-09-22,44,
+RoboSpring,,?,,,,DI,?,<5,As is,1,ASL V2,2015-04-13,7,"""real"" port of the Spring Framework to the Android platform"
+RxAndroidBootstrap,,,?,?,,MVP; Clean; DI; RX; TDD; SOLID,?,+5,As is,1,ASL V2,2015-06-04,172,successor to MVPAndroidBootstrap
+RxFlux,,,,?,,Flux; RX,?,<5,As is,3,ASL V2,2016-01-14,113,
+RxMVVM,,,,?,,MVVM; RX,?,<5,As is,1,ASL V2,2015-11-25,194,
+Search,,,,?,,VIPER,?,,As is,1,ASL V2,2015-09-05,84,
+SOLID: Noun Project Browser,,,,?,,DI; SOLID,?,+5,As is,1,ASL V2,2015-09-21,37,
+Ultimate Android Template Rx,,,`,,,MVP; DI; RX,?,+5,As is,1,ASL V2,2016-01-19,4,
+UltimateAndroid Framework,,?,,,,Standard,?,+5,Gradle Library,2,ASL V2,2015-12-02,1568,"Separated into modules (core, ui(uiwidget, uianimation, uilollipop))"
+VIPERGenerator,,,,?,,Clean,,,CLI Generator - Go,1,Unknown,2015-11-09,5,
+xUtils3,,?,,,,Standard,?,,Gradle Library,1,ASL V2,2016-02-03,1293,
+YourAppIdea,,,?,,?,Standard; DI; RX,?,+5,As is,1,ASL V2,2016-01-04,128,
+,,,,,,,,,,,,,,
+"* According to the project documentation. E.g. Architecture means the documentation indicates the project is a demonstration of a certain architecture(s)
+
+** ""Standard"" is used when the project's documentation doesn't explicitly mention any architecture
+
+""RX"" and ""DI"" were sometimes deduced from the project dependencies
+
+*** Gotten from the project build.gradle files and or included jars. Official Support libraries weren't included in the count.
+
+This acts mostly as an indication of whether or not this project acts also as a collection of external libraries.
+
+**** Personal notes I decided to leave, for now
+",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
