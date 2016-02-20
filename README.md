@@ -17,17 +17,19 @@ Any framework/tool that
 ## General Notes
 * For open-source, [Github](https://github.com) was the main place for finding projects. [BitBucket](https://bitbucket.org/) didn't retrun useful or relevant results while [OpenHub](https://www.openhub.net/) was more or less redirecting to the same GitHub results
 * If similar projects (e.g. forked projects) were found only the latest one was included
-* Proprietary projects weren't execluded but I found none that fit the scope. For better or worse, googling `android` and  `framework` returns mostly references to cross-platform frameworks
+* Proprietary projects weren't execluded but I found none that fit the scope. For better or worse, googling *android* and  *framework* returns mostly references to cross-platform frameworks
 
 ## Results
-https://onedrive.live.com/redir?resid=592DEE767BA8931A!17666&authkey=!AMNQjbr_Of_gwQg&ithint=file%2cxlsx
+http://socialcompare.com/en/comparison/android-frameworks-377y5zil
 
 ## Discussion
 https://www.reddit.com/r/androiddev/comments/45drgi/top_40_android_rapid_development_frameworks/
 
-## Something about a Survey for Android Developers?
-Survey? What the..Oh *the* survey. Yes of course. It's **really important**. Between you and me, this entire thing was a sham to get you to do the survey. ;b
+## Survey Survey Survey
+Between you and me, this entire thing was a sham to get you to do this entertaining survey ;b
 
-Safely shortened so you can tweet/share it too (please do):
+https://sahal3.typeform.com/to/iQ5wBt
 
-http://mcaf.ee/zmk6qu
+http://mcaf.ee/zmk6qu (Same link safely shortened for tweeting/sharing)
+
+> To all who took the survey: Thank you so much for your honesty. Your answers are helping us a lot.
