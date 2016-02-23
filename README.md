@@ -14,13 +14,16 @@ Any framework/tool that
 * Cross-Platform Frameworks
 * Library projects limited to narrowly-scoped functions or application layer
 
-## General Notes
-* For open-source, [Github](https://github.com) was the main place for finding projects. [BitBucket](https://bitbucket.org/) didn't retrun useful or relevant results while [OpenHub](https://www.openhub.net/) was more or less redirecting to the same GitHub results
+#### Notes
+* For open-source, [GitHub](https://github.com) was the main place for finding projects. [BitBucket](https://bitbucket.org/) didn't retrun useful or relevant results while [OpenHub](https://www.openhub.net/) was more or less redirecting to the same GitHub results
 * If similar projects (e.g. forked projects) were found only the latest one was included
 * Proprietary projects weren't execluded but I found none that fit the scope. For better or worse, googling *android* and  *framework* returns mostly references to cross-platform frameworks
 
 ## Results
 http://socialcompare.com/en/comparison/android-frameworks-377y5zil
+
+Or if you prefer an Excel sheet:
+https://doc.co/dcP5mq
 
 ## Discussion
 https://www.reddit.com/r/androiddev/comments/45drgi/top_40_android_rapid_development_frameworks/
@@ -30,6 +33,6 @@ Between you and me, this entire thing was a sham to get you to do this entertain
 
 https://sahal3.typeform.com/to/iQ5wBt
 
-http://mcaf.ee/zmk6qu (Same link safely shortened for tweeting/sharing)
+Same link safely shortened for tweeting/sharing: http://mcaf.ee/zmk6qu
 
 > To all who took the survey: Thank you so much for your honesty. Your answers are helping us a lot.
